@@ -1,5 +1,5 @@
 from machine import Pin
-from utime import sleep
+from time import sleep
 
 # Number of shift registers
 SHIFT_REGISTERS = 2
